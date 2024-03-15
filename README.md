@@ -17,6 +17,7 @@ The data was analyzed using SQL for data manipulation and extractions. Subsequen
 
 The dataset for this project was provided by Maven Analytics and is available in their Data Playground section (https://www.mavenanalytics.io/data-playground).
 The data was organized across four distinct files.
+![](https://github.com/MariaSozinova/Pizzeria-Performance-Analysis/blob/main/assets/files_structure.png)
 
 ## Data Analysis
 
@@ -33,6 +34,7 @@ The data was organized across four distinct files.
 ## Dashboard Construction
 
 All relevant resulting tables were exported to Tableau and were used to create a comprehensive dashboard. 
+![](https://github.com/MariaSozinova/Pizzeria-Performance-Analysis/blob/main/assets/Dashboard_Pizzeria.png)
 
 ## Conclusions and Recommendations
 
